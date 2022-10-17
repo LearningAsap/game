@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\css"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\images"
+		},
+		{
+			"path": "..\\..\\movie"
+		},
+		{
+			"path": "..\\..\\project"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "dropdown"
+	}
+}
